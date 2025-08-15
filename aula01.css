@@ -1,0 +1,17 @@
+.abacate {
+    background-color: blue; /*o background-color sempre sera o cor de fundo do site*/
+    display: flex; /*o display serve para deixar os itens lado a lado*/
+    justify-content: space-evenly; /*Organização dos conteudos*/
+    align-items: center; /*Alinhamento vertical*/
+}
+
+.img-header {
+    width: 60px; /*Width sera a largura da imegem, aqui modificamos o tamalho que queremos que saja
+     apresentado*/
+}
+
+h1 {
+    color: aliceblue; /*O color sempre sera a cor das letras, não colocar ponto no inicio do h1 por não ser
+    uma classe, sempre iremos colocar um ponto no inicio, quando declararmos uma classe*/
+    font-size: 30px; /*Font=size sera sera para altermos o tamanhos das letras*/
+}
