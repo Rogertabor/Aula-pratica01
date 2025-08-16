@@ -1,0 +1,36 @@
+.Principal-icone {
+
+    background-color: rgba(27, 29, 27, 0.493); /*o background-color sempre sera o cor de fundo do site*/
+    display: flex; /*o display serve para deixar os itens lado a lado*/
+    justify-content: space-around; /*Organização dos conteudos*/
+    align-items: center; /*Alinhamento vertical*/
+
+}
+.img-churrasco {
+    width: 100px; /*Width sera a largura da imegem, aqui modificamos o tamalho que queremos que saja
+     apresentado*/
+}
+
+h1 {
+    color: rgb(82, 3, 3); /*O color sempre sera a cor das letras, não colocar ponto no inicio do h1 por não ser
+    uma classe, sempre iremos colocar um ponto no inicio, quando declararmos uma classe*/
+    font-size: 40px; /*Font=size sera sera para altermos o tamanhos das letras*/
+}
+
+/* Aqui eu inclui uma nova sessão pra brincar, mas não deve ser considerado */
+.Segundo-icone{
+    background-color: rgba(26, 228, 26, 0.425); /*o background-color sempre sera o cor de fundo do site*/
+    display: flex; /*o display serve para deixar os itens lado a lado*/
+    justify-content: space-evenly; /*Organização dos conteudos*/
+    align-items: center; /*Alinhamento vertical*/
+}
+.img-churrasco2 {
+    width: 100px; /*Width sera a largura da imegem, aqui modificamos o tamalho que queremos que saja
+     apresentado*/
+}
+
+h1 {
+    color: rgb(82, 3, 3); /*O color sempre sera a cor das letras, não colocar ponto no inicio do h1 por não ser
+    uma classe, sempre iremos colocar um ponto no inicio, quando declararmos uma classe*/
+    font-size: 40px; /*Font=size sera sera para altermos o tamanhos das letras*/
+}
