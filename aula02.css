@@ -20,17 +20,31 @@ h1 {
 /* Aqui eu inclui uma nova sessão pra brincar, mas não deve ser considerado */
 .Segundo-icone{
     background-color: rgba(26, 228, 26, 0.425); /*o background-color sempre sera o cor de fundo do site*/
+    padding: 20px;
     display: flex; /*o display serve para deixar os itens lado a lado*/
-    justify-content: space-evenly; /*Organização dos conteudos*/
+    justify-content: center; /*Organização dos conteudos*/
     align-items: center; /*Alinhamento vertical*/
 }
 .img-churrasco2 {
-    width: 100px; /*Width sera a largura da imegem, aqui modificamos o tamalho que queremos que saja
+    width: 200px; /*Width sera a largura da imegem, aqui modificamos o tamalho que queremos que saja
      apresentado*/
 }
-
-h1 {
-    color: rgb(82, 3, 3); /*O color sempre sera a cor das letras, não colocar ponto no inicio do h1 por não ser
-    uma classe, sempre iremos colocar um ponto no inicio, quando declararmos uma classe*/
-    font-size: 40px; /*Font=size sera sera para altermos o tamanhos das letras*/
+.paragrafo-01 {
+    color: blue;
+    font-size: 40px;
+}
+.Terceiro-icone {
+    background-color: rgba(80, 10, 80, 0.425); /*o background-color sempre sera o cor de fundo do site*/
+    padding: 20px;
+    display: flex; /*o display serve para deixar os itens lado a lado*/
+    justify-content: center; /*Organização dos conteudos*/
+    align-items: center; /*Alinhamento vertical*/
+}
+.img-churrasco3 {
+    width: 200px; /*Width sera a largura da imegem, aqui modificamos o tamalho que queremos que saja
+     apresentado*/
+}
+.paragrafo-02 {
+    color: blue;
+    font-size: 40px;
 }
