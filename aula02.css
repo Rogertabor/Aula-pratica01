@@ -39,6 +39,8 @@ h1 {
     display: flex; /*o display serve para deixar os itens lado a lado*/
     justify-content: center; /*Organização dos conteudos*/
     align-items: center; /*Alinhamento vertical*/
+    gap: 50px;
+    
 }
 .img-churrasco3 {
     width: 200px; /*Width sera a largura da imegem, aqui modificamos o tamalho que queremos que saja
